@@ -55,9 +55,18 @@ Planora AI Core is part of our commitment to open innovation and collaborative p
 
 This repository will continue to evolve with contributions that enhance AI-driven education systems, particularly in emerging markets.
 
+## Why Open Source
+
+We believe that improving learning outcomes for children requires collaboration, transparency, and shared innovation. By open-sourcing core components of Planora AI, we enable developers, educators, and organizations to build, adapt, and scale AI-powered education solutions for diverse local contexts.
+
+Open source allows us to accelerate impact, foster trust, and support a global community working to improve access to quality education, especially in underserved and low-resource environments.
+
+Through this approach, Planora AI contributes to a more inclusive and collaborative future for education technology.
+
 ## Vision
 
 We envision a future where every child, regardless of location or background, has access to high-quality education supported by intelligent, scalable technology.
+
 
 ## System Architecture
 
