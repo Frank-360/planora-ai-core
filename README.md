@@ -155,3 +155,14 @@ The platform can be adapted to support different curricula, including national A
 Planora AI can be deployed at scale through partnerships with education ministries, NGOs, and EdTech organizations to improve learning outcomes for millions of children.
 
 These use cases demonstrate the platform’s scalability and relevance across different educational contexts in Africa.
+
+
+## Current Traction
+
+Planora AI is currently deployed as a functional platform and has been used by early-stage users including teachers and educators.
+
+- Early users: 20+ teachers
+- Use cases: Lesson generation across subjects and class levels
+- Estimated reach: impacting hundreds of students through improved lesson delivery
+
+Ongoing efforts focus on expanding adoption and collecting structured impact data.
