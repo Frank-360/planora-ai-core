@@ -1,0 +1,30 @@
+PLANORA AI LESSON GENERATION LOGIC
+
+Planora AI uses structured AI instructions to transform user inputs into complete lesson notes.
+
+User Inputs:
+- Subject
+- Topic
+- Class Level
+
+System Process:
+The system combines these inputs with predefined instructional frameworks to generate a structured lesson note.
+
+Example Internal Instruction:
+
+Generate a curriculum-aligned lesson note for [Class Level] students on the topic [Topic] in [Subject]. Include:
+- Learning objectives
+- Introduction
+- Detailed lesson content
+- Teaching methods
+- Classroom activities
+- Evaluation questions
+- Conclusion
+
+The system ensures outputs are:
+- Age-appropriate
+- Structured for clarity
+- Adaptable by teachers
+- Relevant to curriculum standards
+
+This logic enables consistent, high-quality lesson generation that improves classroom delivery and learning outcomes for children.
