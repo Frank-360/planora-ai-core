@@ -142,10 +142,10 @@ Below are sample screenshots of Planora AI in use:
 ![Dashboard](dashboard.PNG)
 
 ### Generated Lesson Output
-![Lesson note](lesson note.PNG)
+![Lessonnote](lesson note.PNG)
 
 ### Generated Lesson Output
-![features](feautures.PNG)
+![features](features.PNG)
 
 ### Data Collection Approach:
 - Teacher feedback surveys  
