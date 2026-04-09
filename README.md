@@ -2,6 +2,8 @@
 
 Planora AI Core is an open-source initiative powering the foundational intelligence behind Planora AI, an AI-driven platform designed to improve learning outcomes for children by enabling teachers to deliver high-quality, structured, and engaging lessons at scale.
 
+Currently deployed and tested with early users, impacting classrooms through improved lesson delivery.
+
 ## Overview
 
 Across many low-resource environments, millions of children face learning gaps due to inconsistent lesson delivery, limited teaching resources, and overburdened educators. Planora AI addresses this challenge by providing an intelligent system that transforms simple inputs into comprehensive, curriculum-aligned lesson notes.
