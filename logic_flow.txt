@@ -1,0 +1,44 @@
+PLANORA AI LOGIC FLOW
+
+1. User Input:
+- Subject
+- Topic
+- Class Level
+
+2. Input Processing:
+- Validate input fields
+- Map inputs to lesson structure framework
+- Identify appropriate instructional depth based on class level
+
+3. Lesson Structuring:
+- Apply predefined lesson template:
+  - Objectives
+  - Introduction
+  - Lesson Content
+  - Teaching Methods
+  - Activities
+  - Evaluation
+  - Conclusion
+
+4. AI Generation:
+- Generate structured content using AI models
+- Ensure:
+  - Age-appropriate language
+  - Clarity and coherence
+  - Curriculum alignment
+
+5. Output Formatting:
+- Organize content into readable lesson note format
+- Ensure logical flow and completeness
+
+6. Human-in-the-Loop:
+- Teacher reviews and edits generated lesson
+- Adapts content to classroom context
+
+7. Final Output:
+- Ready-to-use lesson note for classroom delivery
+
+----------------------------------------
+
+SYSTEM GOAL:
+To transform minimal teacher input into high-quality, structured lesson notes that improve teaching effectiveness and learning outcomes for children.
