@@ -124,6 +124,20 @@ Planora AI is designed to improve learning outcomes for children through measura
    - Number of teachers actively using the platform
    - Number of students indirectly impacted through improved teaching
 
+
+## Platform Preview
+
+Below are sample screenshots of Planora AI in use:
+
+### Lesson Input Interface
+![Dashboard](dashboard.png)
+
+### Generated Lesson Output
+![Lesson output](lesson note.png)
+
+### Generated Lesson Output
+![Other features](feautures.png)
+
 ### Data Collection Approach:
 - Teacher feedback surveys  
 - Usage analytics (lesson generation frequency)  
