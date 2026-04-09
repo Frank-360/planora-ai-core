@@ -142,7 +142,7 @@ Below are sample screenshots of Planora AI in use:
 ![Dashboard](dashboard.PNG)
 
 ### Generated Lesson Output
-![lesson note](lesson.PNG)
+![lesson](lesson.PNG)
 
 ### Generated Lesson Output
 ![features](features.PNG)
